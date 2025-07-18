@@ -1,8 +1,8 @@
-#🌱 EcoVibe Store
+# 🌱 EcoVibe Store
 
 EcoVibe Store é um e-commerce fictício voltado para a venda de produtos sustentáveis e ecológicos. O objetivo é promover um estilo de vida consciente e amigo do meio ambiente.
 
-##🛒 Funcionalidades
+## 🛒 Funcionalidades
 
 - Página inicial com produtos ecológicos
 
@@ -21,7 +21,7 @@ EcoVibe Store é um e-commerce fictício voltado para a venda de produtos susten
 - Código JS separado em arquivos externos
 
 
-##📦 Produtos
+## 📦 Produtos
 
 Alguns exemplos de produtos disponíveis:
 
@@ -46,7 +46,7 @@ Alguns exemplos de produtos disponíveis:
 - Pote hermético reutilizável
 
 
-##📁 Estrutura do Projeto
+## 📁 Estrutura do Projeto
 
 EcoVibeStore/
 │
@@ -65,7 +65,7 @@ EcoVibeStore/
 └── imagens/
     └── *.jpg / *.png       # Imagens dos produtos e ícones
 
-##🔒 Login e Validação
+## 🔒 Login e Validação
 
 O login é simulado via JavaScript.
 
@@ -74,7 +74,7 @@ Os dados de usuário estão salvos no main.js como exemplo.
 A navegação para o carrinho ou finalização de compra exige que o usuário esteja logado.
 
 
-##🚀 Como Executar
+## 🚀 Como Executar
 
 1. Clone o repositório:
 
@@ -88,7 +88,7 @@ git clone https://github.com/seuusuario/EcoVibeStore.git
 
 
 
-##💡 Tecnologias Usadas
+## 💡 Tecnologias Usadas
 
 - HTML5
 
@@ -97,6 +97,6 @@ git clone https://github.com/seuusuario/EcoVibeStore.git
 - JavaScript (puro)
 
 
-##👩‍💻 Desenvolvedora
+## 👩‍💻 Desenvolvedora
 
 Projeto criado por Gabrielli Danker como exercício de HTML, CSS e JavaScript.
