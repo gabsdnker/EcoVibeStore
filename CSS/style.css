@@ -194,10 +194,10 @@ footer::before {
   background-repeat: no-repeat;
   background-position: left bottom;
   position: absolute;
-  margin-top: 2%;
+  margin-top: 5%;
   bottom: 0;
   left: 0;
-  width: 500px;
+  width: 550px;
   height: 500px;
   opacity: 0.3;
   z-index: 0;
