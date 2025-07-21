@@ -48,22 +48,21 @@ Alguns exemplos de produtos disponíveis:
 
 ## 📁 Estrutura do Projeto
 
-EcoVibeStore/
-│
-├── index.html              # Página inicial
-├── login.html              # Página de login
-├── cadastro.html           # Página de cadastro
-├── pagamento.html          # Página de pagamento
-├── carrinho.html           # Página do carrinho
-│
-├── css/
-│   └── style.css           # Estilos principais
-│
-├── js/
-│   └── main.js             # Funções JS (login, carrinho, etc.)
-│
-└── imagens/
-    └── *.jpg / *.png       # Imagens dos produtos e ícones
++ EcoVibeStore/
+    - index.html              # Página inicial
+    - login.html              # Página de login
+    - cadastro.html           # Página de cadastro
+    - pagamento.html          # Página de pagamento
+    - carrinho.html           # Página do carrinho
+
+    + css/
+        - style.css           # Estilos principais
+          
+    + js/
+        - main.js             # Funções JS (login, carrinho, etc.)
+
+    + imagens/
+          - *.jpg / *.png       # Imagens dos produtos e ícones
 
 ## 🔒 Login e Validação
 
