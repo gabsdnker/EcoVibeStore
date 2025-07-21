@@ -173,14 +173,12 @@ table tbody tr:nth-child(even) {
 }
 
 /* Produtos */
-
 .produto img {
   width: 100%;
   height: 300px; 
   object-fit: contain; 
   padding: 5px; 
 }
-
 
 /* Footer */
 footer {
@@ -274,7 +272,7 @@ footer a {
   }
 
   .produto img {
-    height: 200px; /* menor altura em telas pequenas */
+    height: 200px; 
   }
 
   .table-responsive {
