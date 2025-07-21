@@ -49,6 +49,7 @@ Alguns exemplos de produtos disponíveis:
 ## 📁 Estrutura do Projeto
 
 + EcoVibeStore/
+  
        -  index.html                      # Página inicial
        -  login.html                      # Página de login
        -  cadastro.html                   # Página de cadastro
