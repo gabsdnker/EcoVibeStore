@@ -54,14 +54,14 @@ Alguns exemplos de produtos disponíveis:
        -  cadastro.html                   # Página de cadastro
        -  pagamento.html                  # Página de pagamento
        -  carrinho.html                   # Página do carrinho
-
-    + CSS/
+       
+       + CSS/
            -  style.css                   # Estilos principais
           
-    + JS/
+       + JS/
            -  main.js                     # Funções JS (login, carrinho, etc.)
-
-    + Imagens/
+       
+       + Imagens/
           -  *.jpg / *.png            # Imagens dos produtos e ícones
 
 ## 🔒 Login e Validação
